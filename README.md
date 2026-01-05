@@ -2,8 +2,8 @@
 
 <p>
   <a href="https://github.com/Fraxix">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fraxix&theme=react&show_icons=true&hide_border=false&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fraxix&layout=compact&langs_count=16&theme=react"/>
+    <img height="180em" src= "https://github-readme-stats-eight-theta.vercel.app/api?username=Fraxix&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fraxix&layout=compact&langs_count=16&theme=react"/>
   </a>
 </p>
 
